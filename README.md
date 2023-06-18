@@ -1,0 +1,1 @@
+The system is the same as in the [previous project](https://github.com/mfebriann/beli-hamburger), which is only a static website without backend. The only difference is, here I'm using ReactJS, because I'm learning about it.
